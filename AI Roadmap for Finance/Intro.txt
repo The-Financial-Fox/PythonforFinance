@@ -1,0 +1,103 @@
+Original Post: https://www.linkedin.com/posts/christianmartinezthefinancialfox_if-id-need-to-do-an-ai-for-fpa-and-finance-activity-7310905534889504770-yzjp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXekl4B8ksbixSWs08Mikhy-2f7MK_y-Ts
+
+If I'd need to do an AI for FP&A and Finance Roadmap in 2025 this is what I'd do:
+
+1: Know the Possibilities of AI in Finance
+
+AI is not just ChatGPT — and it’s not just about answering questions.
+
+It’s about transforming how Finance operates.
+
+But it’s hard to know what you don’t know.
+
+That’s why the first step is awareness.
+
+Get familiar with what’s actually possible.
+
+Here are just a few examples of how AI can be used in Finance:
+
+✅ Automated variance analysis – AI detects anomalies, highlights drivers, and explains them in seconds.
+
+ ✅Forecasting & scenario planning – Build predictive models that adapt in real-time.
+
+ ✅Expense & invoice classification – Automate tedious reconciliations and improve audit readiness.
+
+Before building your roadmap, open the window to what’s possible.
+
+2. Choose an implementation partner and tool 
+
+I have this resource with 30+ AI tools for Finance below
+
+But if you want to keep it simple,
+
+My top suggestion is OpenAI and ChatGPT 
+
+If your company just uses Microsoft products, then explore Copilot 
+
+If your company just uses Google products, then explore Gemini 
+
+3. Get your team trained on that tool 
+
+No matter what LLM and AI company you choose to partner with, I think this is one of the most important steps. 
+
+Every tool has its features
+
+The more you know about them, the more you can do with AI for Finance 
+
+Some examples: 
+
+GPTs from OpenAI: A game changer, you can add your policies, files and data in minutes and you can create a chatbot for your entire company 
+
+Colab AI Agent from Google: Have an AI finance data scientist at your disposal to explore how to find the main drivers of profitability or do scenario modeling 
+
+Copilot in Excel with Python from Microsoft: This can unlock data insights in seconds. 
+
+My point is that every tool has its secrets. 
+
+And you can spend hours and hours learning them. 
+
+But AI changes every day. 
+
+So instead of trying to keep up, choose a learning partner and get your team trained on use cases of AI in Finance. 
+
+If you need help with that, let me know and I can give you suggestions 
+
+Some options: 
+
+AI Finance Club
+Self Paced Courses 
+LinkedIn Learning Courses 
+
+4. Prioritise use cases 
+
+Use my framework in the pdf
+
+Focus on Quick Wins and Major Projects 
+
+Keep some Fill Ins ready 
+
+Avoid Thankless Tasks
+
+5. Create a Governance & Compliance Plan
+
+AI is powerful—but it needs guardrails.
+
+Define what data can and can’t be used
+
+Set standards for review and oversight
+
+This ensures your AI efforts are safe, ethical, and scalable.
+
+6: Track and Share Wins
+
+Start small, but celebrate results.
+
+Did an AI tool reduce reporting time by 50%?
+
+Did automation save your analysts 10 hours a week?
+
+Share it with the team and leadership.
+
+Build an Internal prompt Library and start documenting every AI idea or request that comes up—big or small.
+
+Momentum builds when people see the value.
