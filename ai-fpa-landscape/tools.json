@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Datarails",
+    "category": ["Forecasting", "Reporting", "Budgeting"],
+    "status": "GA",
+    "description": "AI-powered FP&A platform with automation and scenario modeling.",
+    "link": "https://www.datarails.com",
+    "logo": "assets/logos/datarails.png"
+  },
+  {
+    "name": "Gridwise AI",
+    "category": ["Planning", "Forecasting"],
+    "status": "Beta",
+    "description": "Forecasting-as-a-service platform for revenue and cost projections using machine learning.",
+    "link": "https://www.gridwise.ai",
+    "logo": "assets/logos/gridwise.png"
+  },
+  {
+    "name": "PlanMate",
+    "category": ["Planning", "Automation"],
+    "status": "Open Source",
+    "description": "Open source tool for building financial models with automation templates.",
+    "link": "https://github.com/planmate",
+    "logo": "assets/logos/planmate.png"
+  },
+  {
+    "name": "VizPlan",
+    "category": ["Visualization", "Scenario Modeling"],
+    "status": "GA",
+    "description": "Interactive dashboards for financial data and dynamic scenario comparisons.",
+    "link": "https://www.vizplan.io",
+    "logo": "assets/logos/vizplan.png"
+  },
+  {
+    "name": "AutoFP&A",
+    "category": ["Automation", "Integration"],
+    "status": "Prototype",
+    "description": "Tool that connects ERP systems and automates financial planning cycles using AI.",
+    "link": "https://autofpa.ai",
+    "logo": "assets/logos/autofpa.png"
+  }
+]
