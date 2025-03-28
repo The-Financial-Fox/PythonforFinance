@@ -23,16 +23,17 @@ STATUS = {
 
 # Tag colors for UI
 TAG_COLORS = {
-    "Forecasting": "green",
-    "Automation": "blue",
-    "Reporting": "purple",
-    "Planning": "orange",
-    "Scenario Modeling": "red",
-    "Integration": "yellow",
-    "Budgeting": "cyan",
-    "Visualization": "pink",
-    "Other": "gray"
+    "Forecasting": "#DFF3E3",       # light mint
+    "Automation": "#E3F2FD",        # soft blue
+    "Reporting": "#EBDCF3",         # pastel lavender
+    "Planning": "#FFEFD6",          # soft orange
+    "Scenario Modeling": "#FEE2E2", # blush red
+    "Integration": "#FFF6BF",       # light yellow
+    "Budgeting": "#D0F0C0",         # mint green
+    "Visualization": "#FDEEF4",     # baby pink
+    "Other": "#E5E5E5"              # soft gray
 }
+
 
 # Define default tags for the landscape
 DEFAULT_TAGS = [
