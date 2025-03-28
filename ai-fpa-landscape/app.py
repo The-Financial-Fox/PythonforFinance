@@ -16,7 +16,7 @@ def render_tag(label, color="lightgray"):
     )
 
 # 📥 Load tools data
-tools_df = load_tools_from_json("data/tools.json")
+tools_df = load_tools_from_json("tools.json")
 
 # 🧭 Sidebar Filters
 with st.sidebar:
