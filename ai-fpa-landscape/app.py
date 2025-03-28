@@ -5,7 +5,20 @@ from streamlit_extras.stylable_container import stylable_container
 from utils.filters import load_tools_from_json, filter_by_categories, search_tools
 from config import CATEGORIES, ICON_MAP, TAG_COLORS
 
-st.set_page_config(page_title="AI for FP&A Landscape", layout="wide")
+st.set_page_config(page_title="AI for FP&A Landscape by Christian Martinez", layout="wide")
+
+# Custom background color
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: #f7f4ed;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 
 # 🔖 Helper to render custom tags
 def render_tag(label, color="lightgray"):
@@ -80,7 +93,7 @@ filtered_df = filter_by_categories(tools_df, selected_categories)
 filtered_df = search_tools(filtered_df, search_query)
 
 # 🔠 App Title
-st.title("📊 AI for FP&A Landscape")
+st.title("📊 AI for FP&A Landscape by Christian Martinez")
 st.caption("Explore AI-powered tools supporting financial planning and analysis.")
 st.markdown("---")
 
