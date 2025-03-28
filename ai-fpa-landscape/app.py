@@ -16,7 +16,54 @@ def render_tag(label, color="lightgray"):
     )
 
 # 📥 Load tools data
-tools_df = load_tools_from_json("tools.json")
+import pandas as pd
+
+# Sample embedded tools data
+embedded_tools_data = [
+    {
+        "name": "Datarails",
+        "category": ["Forecasting", "Reporting", "Budgeting"],
+        "status": "GA",
+        "description": "AI-powered FP&A platform with automation and scenario modeling.",
+        "link": "https://www.datarails.com",
+        "logo": ""
+    },
+    {
+        "name": "Gridwise AI",
+        "category": ["Planning", "Forecasting"],
+        "status": "Beta",
+        "description": "Forecasting-as-a-service platform for revenue and cost projections using machine learning.",
+        "link": "https://www.gridwise.ai",
+        "logo": ""
+    },
+    {
+        "name": "PlanMate",
+        "category": ["Planning", "Automation"],
+        "status": "Open Source",
+        "description": "Open source tool for building financial models with automation templates.",
+        "link": "https://github.com/planmate",
+        "logo": ""
+    },
+    {
+        "name": "VizPlan",
+        "category": ["Visualization", "Scenario Modeling"],
+        "status": "GA",
+        "description": "Interactive dashboards for financial data and dynamic scenario comparisons.",
+        "link": "https://www.vizplan.io",
+        "logo": ""
+    },
+    {
+        "name": "AutoFP&A",
+        "category": ["Automation", "Integration"],
+        "status": "Prototype",
+        "description": "Tool that connects ERP systems and automates financial planning cycles using AI.",
+        "link": "https://autofpa.ai",
+        "logo": ""
+    }
+]
+
+# Convert it to a DataFrame
+tools_df = pd.DataFrame(embedded_tools_data)
 
 # 🧭 Sidebar Filters
 with st.sidebar:
