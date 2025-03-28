@@ -3,14 +3,18 @@
 # Define the categories for tools in the landscape
 CATEGORIES = {
     "Forecasting": "green",
-    "Automation": "blue",
     "Reporting": "purple",
+    "Budgeting": "cyan",
     "Planning": "orange",
     "Scenario Modeling": "red",
-    "Integration": "yellow",
-    "Budgeting": "cyan",
     "Visualization": "pink",
-    "Other": "gray"
+    "Automation": "blue",
+    "Data Manipulation": "teal",
+    "Accounting Automation": "brown",
+    "Scripting": "gray",
+    "AI Modeling": "indigo",
+    "Infrastructure": "black",
+    "Other": "lightgray"
 }
 
 # Define statuses for tools (e.g., GA, Beta)
@@ -18,46 +22,49 @@ STATUS = {
     "GA": "green",
     "Beta": "yellow",
     "Open Source": "blue",
-    "Prototype": "red",
+    "Prototype": "red"
 }
 
-# Tag colors for UI
+# Pastel-friendly tag colors for UI
 TAG_COLORS = {
-    "Forecasting": "#DFF3E3",       # light mint
-    "Automation": "#E3F2FD",        # soft blue
-    "Reporting": "#EBDCF3",         # pastel lavender
-    "Planning": "#FFEFD6",          # soft orange
-    "Scenario Modeling": "#FEE2E2", # blush red
-    "Integration": "#FFF6BF",       # light yellow
-    "Budgeting": "#D0F0C0",         # mint green
-    "Visualization": "#FDEEF4",     # baby pink
-    "Other": "#E5E5E5"              # soft gray
+    "Forecasting": "#DFF3E3",
+    "Reporting": "#EBDCF3",
+    "Budgeting": "#D0F0C0",
+    "Planning": "#FFEFD6",
+    "Scenario Modeling": "#FEE2E2",
+    "Visualization": "#FDEEF4",
+    "Automation": "#E3F2FD",
+    "Data Manipulation": "#E0F7FA",
+    "Accounting Automation": "#F9E0C7",
+    "Scripting": "#ECECEC",
+    "AI Modeling": "#E8EAF6",
+    "Infrastructure": "#D7CCC8",
+    "Other": "#F0F0F0"
 }
 
+# Default visible tags in the UI
+DEFAULT_TAGS = list(CATEGORIES.keys())
 
-# Define default tags for the landscape
-DEFAULT_TAGS = [
-    "Forecasting", "Automation", "Reporting", "Planning", 
-    "Scenario Modeling", "Integration", "Budgeting", "Visualization", "Other"
-]
-
-# Streamlit Extras Configurations (e.g., icons, extra widgets)
+# Streamlit extras config (toggleable)
 EXTRA_CONFIG = {
     "show_search": True,
     "show_category_filter": True,
     "show_tags_filter": True
 }
 
-# Add icons, logo colors, etc. if needed for Streamlit Extras or visuals
+# Icons for categories
 ICON_MAP = {
     "Forecasting": "📊",
-    "Automation": "🤖",
     "Reporting": "📈",
+    "Budgeting": "💰",
     "Planning": "🗓️",
     "Scenario Modeling": "🔮",
-    "Integration": "🔗",
-    "Budgeting": "💰",
-    "Visualization": "📊",
+    "Visualization": "🧩",
+    "Automation": "🤖",
+    "Data Manipulation": "🧮",
+    "Accounting Automation": "📒",
+    "Scripting": "⌨️",
+    "AI Modeling": "🧠",
+    "Infrastructure": "☁️",
     "Other": "🛠️"
 }
-
