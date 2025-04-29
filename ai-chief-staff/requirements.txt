@@ -1,0 +1,5 @@
+streamlit
+pandas
+groq
+python-docx
+python-dotenv
