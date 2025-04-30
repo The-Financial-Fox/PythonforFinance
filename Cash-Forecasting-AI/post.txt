@@ -1,0 +1,40 @@
+I received this question: Can hashtag#AI help with Cash Forecasting?
+
+Most finance professionals are still doing this with spreadsheets, despite how much Python and AI can now automate and improve the process.
+
+That’s why I created this AI Cash Forecasting Template for FP&A teams.
+
+It's a PDF guide that walks you through using machine learning models (like XGBoost or Prophet) for cash flow forecasting — no prior coding expertise needed.
+
+You can also get the Python code I am using, just comment AI for Cash Forecasting and I can send it!
+
+Use this framework and learn to:
+
+✅ Prompt an LLM (e.g. ChatGPT, Gemini, Copilot) to generate Python code and model your cash forecast
+
+I added the prompt in the pdf and will add also to the 1st comment
+
+✅ Know what data to use (AR, AP, Payroll, Revenue, etc.)
+
+✅Learn where to run Python Code
+
+- Easiest to Start → Google Colab
+
+- If you run on Microsoft → Visual Studio
+
+- If you prefer to stay in Excel → Python in Excel
+
+https://lnkd.in/eN7tWt-t
+
+And once you're up and running, here's how you iterate and improve your forecast using AI:
+
+Feature engineering
+Adding external drivers
+Increasing data frequency
+Model comparison & stacking
+
+I believe AI in hashtag#finance and FP&A isn’t about replacing us. 
+
+It’s about empowering us to focus on insights, not just data crunching.
+
+Hope this helps in your journey to use AI for Finance!
