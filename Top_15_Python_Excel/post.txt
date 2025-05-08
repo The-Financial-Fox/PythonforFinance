@@ -1,0 +1,37 @@
+✅ Data Preparation & Cleaning
+
+1. Add data to a dataframe → Easily pull Excel ranges into Python.
+
+2. Outlier detection & removal → Spot and exclude extreme values.
+
+3. Handle missing values → Fill gaps using median or advanced methods.
+
+✅ Descriptive Analytics & Diagnostics
+
+ 4. Correlation matrix for KPIs → Uncover relationships between drivers.
+
+ 5. Variance & trend analysis → Measure changes over time.
+
+ 6. Descriptive statistics → One line for mean, median, standard deviation.
+
+✅ Analytics & Visualization
+
+ 7. Variance heatmap → Spot over/underperformance fast.
+
+ 8. Budget vs. actual bar chart → Side-by-side spending comparison.
+
+ 9. Expense boxplot → See spread and outliers by category.
+
+ 10. Analysis pairplot → Explore trends across multiple KPIs.
+
+✅ Forecasting & Insights
+
+ 11. Revenue forecasting → Test forecast accuracy and model results.
+
+ 12. Cohort retention heatmap → Spot loyalty and churn patterns.
+
+ 13. Machine learning → Project future revenue using trends.
+
+ 14. Bubble chart variance impact → Big bubbles indicate bigger financial impact.
+
+ 15. Word cloud financial commentary → Find recurring themes in notes fast.
