@@ -2,3 +2,4 @@ streamlit
 speechrecognition
 groq
 python-dotenv
+pyaudio
