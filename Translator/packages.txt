@@ -1,1 +1,5 @@
-portaudio19-dev
+speechrecognition
+pyttsx3
+groq
+python-dotenv
+pyaudio
