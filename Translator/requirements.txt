@@ -1,5 +1,4 @@
 streamlit
-speechrecognition
+streamlit-webrtc
 groq
 python-dotenv
-pyaudio
