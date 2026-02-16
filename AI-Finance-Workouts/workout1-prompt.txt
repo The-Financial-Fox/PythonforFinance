@@ -1,0 +1,47 @@
+Create a clean, professional, single-page HTML financial dashboard using the attached Excel dataset.
+
+Requirements:
+
+Use pure HTML + CSS + JavaScript
+
+Use Chart.js for visualizations
+
+Create KPI cards for: Revenue, EBITDA, Net Income, Cash, Total Debt
+
+Add:
+
+Revenue trend (line chart – monthly)
+
+EBITDA margin trend
+
+Net Income trend
+
+Balance Sheet breakdown (bar chart)
+
+Cash Flow breakdown (stacked bar)
+
+Include dropdown filters for Year
+
+Use modern dashboard styling (dark theme, rounded cards, soft shadows)
+
+Make layout responsive
+
+Add calculated metrics:
+
+EBITDA Margin
+
+Net Margin
+
+Debt-to-Equity
+
+Revenue YoY growth
+
+Output:
+
+A complete HTML file (single file)
+
+All CSS inside <style>
+
+All JS inside <script>
+
+Fully functional and ready to open in browser
