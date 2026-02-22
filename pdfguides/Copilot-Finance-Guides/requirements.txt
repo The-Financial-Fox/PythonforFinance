@@ -1,0 +1,22 @@
+Hi there,
+
+I put together something I think you'll find useful.
+
+Microsoft has shipped a wave of AI features inside Excel over the past year — Copilot Agent Mode, the =COPILOT() formula, Python in Excel, and more. They're powerful. They're available right now with your existing M365 licenses. And most finance teams haven't touched them yet.
+
+So I designed a Scavenger Hunt: 9 hands-on exercises your team can work through over 2 weeks (one per workday), plus a reflection day at the end.
+
+Here's what it covers:
+
+→ Days 1–3: Copilot Agent Mode — build a financial close report, a loan calculator, and a budget tracker using nothing but natural language prompts
+→ Days 4–5: The =COPILOT() formula — run variance analysis, trend identification, scenario planning, and executive summaries directly inside cells
+→ Days 6–7: Python in Excel — unpivot financial data and run HR/salary analytics without ever leaving Excel
+→ Day 8: Copilot + Python — let AI write the Python code for SaaS forecasting and regression analysis
+→ Day 9: ChatGPT + Python — pick from 30 automation ideas (GL anomaly detection, cash flow forecasting, invoice OCR, and more) and generate a complete script
+→ Day 10: Reflection — your team rates each tool, identifies what's most useful for YOUR workflows, and commits to one process change
+
+Everything is included: a slide deck you can present to kick it off, plus 5 Excel workbooks with sample data, prompts, and instructions for every exercise.
+
+The idea is simple — the best way to evaluate these tools isn't a demo or a vendor pitch. It's putting them in your team's hands for 10 days and letting them tell you what works.
+
+I've attached the full presentation. Feel free to forward it to your FP&A leads, controllers, or anyone on your team who lives in Excel.
