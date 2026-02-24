@@ -1,0 +1,1 @@
+These folder contains synthetic datasets to test AI tools for FP&A and Finance
