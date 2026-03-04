@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>Mini App</title>
-  </head>
-  <body>
-    <div id="root"></div>
+<head>
+  <meta charset="UTF-8">
+  <title>GenAI Finance</title>
+</head>
 
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<body>
+  <div id="root"></div>
+
+  <script type="module">
+    import React from "https://esm.sh/react";
+    import ReactDOM from "https://esm.sh/react-dom/client";
+
+    function App() {
+      return React.createElement("h1", null, "GenAI Finance App Running 🚀");
+    }
+
+    ReactDOM.createRoot(document.getElementById("root")).render(
+      React.createElement(App)
+    );
+  </script>
+
+</body>
 </html>
