@@ -1,0 +1,9 @@
+project,initial_investment,annual_cashflow,years,risk_score
+Project_A,500000,140000,5,3
+Project_B,750000,180000,6,5
+Project_C,300000,95000,5,2
+Project_D,1200000,310000,7,7
+Project_E,450000,120000,5,4
+Project_F,600000,155000,6,3
+Project_G,900000,210000,6,6
+Project_H,250000,80000,4,2
