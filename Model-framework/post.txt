@@ -1,0 +1,37 @@
+Most people think AI is bad at financial modelling.
+
+I think most prompts and approaches are.
+
+Over the weekend, a member of AI Finance Club asked for improvement tips on financial modelling with AI so I built a small framework around it.
+
+Let me share with you!
+
+This is the full explanation: https://lnkd.in/e2jW6pY7
+
+So here's what actually happens if you prompt AI with something as general as "build me financial model please"
+
+Basically it doesn't have your business context, your real data, or your assumptions so it fills the gaps itself. With numbers that look possible but are incorrect. 
+
+I built a small framework to fix this. I call it MODEL. 
+
+Five steps, in order, before AI writes a single formula. 
+
+M -> Mission Say exactly what you're building. A forecast, a budget, a 3-statement model, a dashboard. Not "help me with finance stuff." 
+
+O -> Organisation Give it the context a new analyst gets on day one. Industry, business model, size, what decision this model needs to support. 
+
+D -> Data List your actual files, tabs, and columns, with a one-line explanation of each. This is the difference between AI using your real schema and AI making one up. 
+
+E -> Expectations Spell out the KPIs, scenarios, and outputs you need, and the tool (Excel based, Python, HTML dashboard, mini app). Tell it not to use dummy data unless something is genuinely missing. 
+
+I have multiple guides on "types of outputs" . Let me know in the comments and I can share my Python, HTML and Excel guides
+
+L -> Logic and validation The step almost everyone skips. Before any code gets written, make AI tell you: what's usable, what's missing, how the tables connect, what assumptions it's making, and how it will check its own work. 
+
+Only after adding all of these then you let it build the model. 
+
+And you also need to select the right LLM for it! 
+
+ Instead of a model built on assumptions AI invented, you get one built on your data, with the gaps and assumptions written down where you can see them. 
+
+If you run FP&A, treasury, or any kind of forecasting, try this on your next AI prompt. 
